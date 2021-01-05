@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ghufran El-Azizi</title>
-    <link>http://tukangoding.github.io/tags/</link>
-    <description>Recent content in Tags on Ghufran El-Azizi</description>
+    <title>Tags on Tukangoding</title>
+    <link>https://tukangoding.github.io/tags/</link>
+    <description>Recent content in Tags on Tukangoding</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://tukangoding.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://tukangoding.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

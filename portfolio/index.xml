@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portfolios on Ghufran El-Azizi</title>
-    <link>http://tukangoding.github.io/portfolio/</link>
-    <description>Recent content in Portfolios on Ghufran El-Azizi</description>
+    <title>Portfolios on Tukangoding</title>
+    <link>https://tukangoding.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Tukangoding</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Nov 2019 18:25:22 +0530</lastBuildDate><atom:link href="http://tukangoding.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Nov 2019 18:25:22 +0530</lastBuildDate><atom:link href="https://tukangoding.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alf Production</title>
-      <link>http://tukangoding.github.io/portfolio/work1/</link>
+      <link>https://tukangoding.github.io/portfolio/work1/</link>
       <pubDate>Tue, 05 Nov 2019 18:25:22 +0530</pubDate>
       
-      <guid>http://tukangoding.github.io/portfolio/work1/</guid>
+      <guid>https://tukangoding.github.io/portfolio/work1/</guid>
       <description>&lt;p&gt;Ini adalah proyek website untuk layanan penyedia &lt;strong&gt;jasa pembuatan lagu jingle, mars, hymne,&lt;/strong&gt; dan &lt;strong&gt;theme song&lt;/strong&gt; yang berada di Semarang. I&amp;rsquo;m so excited mengerjakan proyek ini.&lt;/p&gt;</description>
     </item>
     
